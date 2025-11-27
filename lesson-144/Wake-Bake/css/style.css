@@ -40,7 +40,7 @@
 }
 
 .main__program {
-    padding: 145px 0;
+    padding: 0 0 145px 0;
 }
 
 .container {
@@ -1225,4 +1225,5 @@
     .program__price {
         text-align: center;
     }
+
 }
