@@ -140,6 +140,4 @@ const swiper = new Swiper('.gallery__slider', {
             spaceBetween: 40
         }
     }
-
 });
-
