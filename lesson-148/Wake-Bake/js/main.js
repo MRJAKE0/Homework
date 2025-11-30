@@ -127,7 +127,7 @@ const swiper = new Swiper('.gallery__slider', {
 
         601: {
             spaceBetween: 32,
-            slidesPerView: 3,
+            slidesPerView: 2,
         },
 
         801: {
@@ -140,4 +140,5 @@ const swiper = new Swiper('.gallery__slider', {
             spaceBetween: 40
         }
     }
+
 });
